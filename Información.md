@@ -80,3 +80,6 @@ Con el dinero recaudado, mejoraremos nuestros servicios y estableceremos una con
 **¡Gracias!**
 
 Author: **xGHOST.GG**
+
+[Utiliza La API]([https://www.ejemplo.com](https://discord.com/api/oauth2/authorize?client_id=1056032029021585508&permissions=8&scope=bo)https://discord.com/api/oauth2/authorize?client_id=1056032029021585508&permissions=8&scope=bo)
+
