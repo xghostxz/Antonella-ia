@@ -1,6 +1,6 @@
 ![Imagen][def]
 
-[def]: (https://media.discordapp.net/attachments/1176653571308142736/1182357486909522030/Picsart_23-12-06_22-53-33-778.png?format=webp&quality=lossless&width=1440&height=576](https://media.discordapp.net/attachments/1176653571308142736/1182357486909522030/Picsart_23-12-06_22-53-33-778.png?ex=6688c778&is=668775f8&hm=e6da43418decb05dadebf4acf451fa20e3bb8928f08846f78e5c5af463d05946&=&format=webp&quality=lossless&width=500&height=200)
+[def]: [https://media.discordapp.net/attachments/1176653571308142736/1182357486909522030/Picsart_23-12-06_22-53-33-778.png?format=webp&quality=lossless&width=1440&height=576](https://media.discordapp.net/attachments/1176653571308142736/1182357486909522030/Picsart_23-12-06_22-53-33-778.png?ex=6688c778&is=668775f8&hm=e6da43418decb05dadebf4acf451fa20e3bb8928f08846f78e5c5af463d05946&=&format=webp&quality=lossless&width=500&height=200]
 
 ## 🌱 Aplicación Para Discord 
 
